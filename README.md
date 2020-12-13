@@ -1,2 +1,3 @@
 # img2pdf
- Convert images to PDF using Pillow
+
+Convert images to PDF using Python Pillow
